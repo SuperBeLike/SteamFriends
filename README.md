@@ -14,7 +14,9 @@
 
 ## Steam好友列表
 
-| Avatar                                                                            | Name      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
-|:----------------------------------------------------------------------------------|:----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-03-21 21:16:46 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT      | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-03-21 21:16:46 |
+| Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
+|:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS  | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-03-21 21:16:46 |
+| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT       | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-03-21 21:16:46 |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 2622795128 | [76561199622876948](https://steamcommunity.com/profiles/76561199622876948/) | ✅           | 2025-03-21 16:01:58 |          |                     |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 燎原星火       | [76561199039109919](https://steamcommunity.com/profiles/76561199039109919/) | ✅           | 2025-03-21 15:59:46 |          |                     |
